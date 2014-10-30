@@ -1,0 +1,9 @@
+C:\Users\zahid\documents\visual studio 2012\Projects\SuperShopWithAssociation\SuperShopWithAssociation\bin\Debug\SuperShopWithAssociation.exe.config
+C:\Users\zahid\documents\visual studio 2012\Projects\SuperShopWithAssociation\SuperShopWithAssociation\bin\Debug\SuperShopWithAssociation.exe
+C:\Users\zahid\documents\visual studio 2012\Projects\SuperShopWithAssociation\SuperShopWithAssociation\bin\Debug\SuperShopWithAssociation.pdb
+C:\Users\zahid\documents\visual studio 2012\Projects\SuperShopWithAssociation\SuperShopWithAssociation\obj\Debug\SuperShopWithAssociation.Form1.resources
+C:\Users\zahid\documents\visual studio 2012\Projects\SuperShopWithAssociation\SuperShopWithAssociation\obj\Debug\SuperShopWithAssociation.Properties.Resources.resources
+C:\Users\zahid\documents\visual studio 2012\Projects\SuperShopWithAssociation\SuperShopWithAssociation\obj\Debug\SuperShopWithAssociationUsingDictionary.csproj.GenerateResource.Cache
+C:\Users\zahid\documents\visual studio 2012\Projects\SuperShopWithAssociation\SuperShopWithAssociation\obj\Debug\SuperShopWithAssociation.exe
+C:\Users\zahid\documents\visual studio 2012\Projects\SuperShopWithAssociation\SuperShopWithAssociation\obj\Debug\SuperShopWithAssociation.pdb
+C:\Users\zahid\Desktop\New folder\SuperShopWithAssociationDictionary\SuperShopWithAssociation\obj\Debug\SuperShopWithAssociation.pdb

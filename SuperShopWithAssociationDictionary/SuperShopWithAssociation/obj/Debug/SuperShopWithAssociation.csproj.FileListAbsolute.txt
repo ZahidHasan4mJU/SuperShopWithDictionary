@@ -1,0 +1,9 @@
+c:\users\zahid\documents\visual studio 2012\Projects\SuperShopWithAssociation\SuperShopWithAssociation\bin\Debug\SuperShopWithAssociation.exe.config
+c:\users\zahid\documents\visual studio 2012\Projects\SuperShopWithAssociation\SuperShopWithAssociation\bin\Debug\SuperShopWithAssociation.exe
+c:\users\zahid\documents\visual studio 2012\Projects\SuperShopWithAssociation\SuperShopWithAssociation\bin\Debug\SuperShopWithAssociation.pdb
+c:\users\zahid\documents\visual studio 2012\Projects\SuperShopWithAssociation\SuperShopWithAssociation\obj\Debug\SuperShopWithAssociation.csprojResolveAssemblyReference.cache
+c:\users\zahid\documents\visual studio 2012\Projects\SuperShopWithAssociation\SuperShopWithAssociation\obj\Debug\SuperShopWithAssociation.Form1.resources
+c:\users\zahid\documents\visual studio 2012\Projects\SuperShopWithAssociation\SuperShopWithAssociation\obj\Debug\SuperShopWithAssociation.Properties.Resources.resources
+c:\users\zahid\documents\visual studio 2012\Projects\SuperShopWithAssociation\SuperShopWithAssociation\obj\Debug\SuperShopWithAssociation.csproj.GenerateResource.Cache
+c:\users\zahid\documents\visual studio 2012\Projects\SuperShopWithAssociation\SuperShopWithAssociation\obj\Debug\SuperShopWithAssociation.exe
+c:\users\zahid\documents\visual studio 2012\Projects\SuperShopWithAssociation\SuperShopWithAssociation\obj\Debug\SuperShopWithAssociation.pdb
